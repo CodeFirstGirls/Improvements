@@ -6,7 +6,7 @@ No amount of help is too small! If you can't commit to too many edits, you can j
 
 *H - Intro to Web Development course*
 
-*P - Python for Web Development course
+*P - Python for Web Development course*
 
 H. Week 5. Update Bootstrap version in Week 5 slides. Remove bootstrap code from the project (it's supposed to be added by the students and shouldn't be in the original code at all)
 
@@ -31,4 +31,4 @@ P. Learn Python The Hard Way links should be replaced with similar relevant exer
 P. Discuss any other potential updates
 
 
-**Thank you! We love you all!
+**Thank you! We love you all!**
