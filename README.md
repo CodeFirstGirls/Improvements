@@ -34,4 +34,8 @@ P. Learn Python The Hard Way links should be replaced with similar relevant exer
 P. Discuss any other potential updates
 
 
+*Other*
+
+Update our online Taster slides (http://taster.codefirstgirls.org.uk/)
+
 **Thank you! We love you all!**
