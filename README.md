@@ -13,7 +13,10 @@ H. Pick the best tool to potentially replace Atom (preferably something which wo
 
 
 
-P. Update all slides to Python 3. syntax
-P. Pick the best Python editor
+P. Update all slides to Python 3.X syntax
+
+P. Pick the best Python editor#
+
 P. Update old Windows setup discussions (hey seem to be out of date)
+
 P. Learn Python The Hard Way links should be replaced with similar relevant exercises from open/free websites
