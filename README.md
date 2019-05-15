@@ -4,7 +4,7 @@ If you see anything you'd like to help with, let us know at programmes@codefirst
 No amount of help is too small! If you can't commit to too many edits, you can jump on a collaborative project (we're happy to set up some once we know who would like to contribute)
 
 
-*H - Intro to Web Development course 
+*H - Intro to Web Development course*
 
 *P - Python for Web Development course
 
