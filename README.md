@@ -24,6 +24,8 @@ H. Make UX class shorter to accommodate more technical material. If UX class is 
 
 
 P. Update all slides to Python 3.X syntax
+ (editable slides for this project available here: https://drive.google.com/drive/u/1/folders/1RBYDZWC33XghcaYCYYDjBs-9j5avnbOa)
+ Volunteers: Daniel WH and Darren V.
 
 P. Pick the best Python editor (Github, Mac, Windows, and ideally Chromebook friendly. Oh, and free to use.)
 
