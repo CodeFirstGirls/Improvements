@@ -22,7 +22,6 @@ H. Suggest a different order of topics covered in the Beginners course
 H. Make UX class shorter to accommodate more technical material. If UX class is shorter, how do we make it informative? Ideas welcome!
 
 
-
 P. Update all slides to Python 3.X syntax
  (editable slides for this project available here: https://drive.google.com/drive/u/1/folders/1RBYDZWC33XghcaYCYYDjBs-9j5avnbOa)
  Volunteers: Daniel WH and Darren V. Done and saved in the folder above)
@@ -33,7 +32,7 @@ P. Update old Windows setup discussions (they seem to be out of date)
 
 P. Learn Python The Hard Way links should be replaced with similar relevant exercises from open/free websites
 
-P. Discuss any other potential updates
+P. Update outdated API for Mailgun
 
 
 *Other*
