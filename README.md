@@ -25,11 +25,11 @@ H. Make UX class shorter to accommodate more technical material. If UX class is 
 
 P. Update all slides to Python 3.X syntax
  (editable slides for this project available here: https://drive.google.com/drive/u/1/folders/1RBYDZWC33XghcaYCYYDjBs-9j5avnbOa)
- Volunteers: Daniel WH and Darren V.
+ Volunteers: Daniel WH and Darren V. Done and saved in the folder above)
 
 P. Pick the best Python editor (Github, Mac, Windows, and ideally Chromebook friendly. Oh, and free to use.)
 
-P. Update old Windows setup discussions (hey seem to be out of date)
+P. Update old Windows setup discussions (they seem to be out of date)
 
 P. Learn Python The Hard Way links should be replaced with similar relevant exercises from open/free websites
 
